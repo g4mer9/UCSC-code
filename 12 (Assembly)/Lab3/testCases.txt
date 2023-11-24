@@ -1,0 +1,19 @@
+Enter the height of the pattern (must be greater than 0):8
+$1
+$*$3
+$*$*$5
+$*$*$*$7
+$*$*$*$*$9
+$*$*$*$*$*$11
+$*$*$*$*$*$*$13
+$*$*$*$*$*$*$*$15
+
+-- program is finished running (0) --
+
+Enter the height of the pattern (must be greater than 0):4
+$1
+$*$3
+$*$*$5
+$*$*$*$7
+
+-- program is finished running (0) --
